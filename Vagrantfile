@@ -22,7 +22,7 @@ Vagrant.configure("2") do |config|
       systemctl restart sshd
     SCRIPT
 
-    # install docker
+    # install loki, promtail
     cfg.vm.provision "shell", inline: <<-SCRIPT
       apt-get update
       apt-get install -y vim net-tools
