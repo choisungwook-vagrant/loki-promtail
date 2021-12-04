@@ -1,0 +1,7 @@
+server:
+  name: loki-promtail
+  box: generic/ubuntu1804
+  hostname: loki-promtail
+  ip: 192.168.25.43
+  memory: 8192
+  cpu: 4
