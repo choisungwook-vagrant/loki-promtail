@@ -1,0 +1,410 @@
+[
+    {
+        "stream": {
+            "filename": "/var/log/alternatives.log",
+            "job": "varlogs"
+        },
+        "values": [
+            [
+                "1638609981758178853",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/editor editor /usr/bin/vim.nox 40 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981758167455",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/ex ex /usr/bin/vim.nox 40 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981758162237",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/view view /usr/bin/vim.nox 40 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981758139361",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/vi vi /usr/bin/vim.nox 40 --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981758132486",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/rview rview /usr/bin/vim.nox 40"
+            ],
+            [
+                "1638609981758126066",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/rvim rvim /usr/bin/vim.nox 40"
+            ],
+            [
+                "1638609981758108659",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/vimdiff vimdiff /usr/bin/vim.nox 40"
+            ],
+            [
+                "1638609981758102610",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/vim vim /usr/bin/vim.nox 40"
+            ],
+            [
+                "1638609981758095639",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/editor editor /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981758071314",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/ex ex /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981758061212",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/view view /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981758057278",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/vi vi /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981758042889",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/rview rview /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981758037055",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/rvim rvim /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981758031799",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/vimdiff vimdiff /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981758007327",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/vim vim /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981758001726",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/editor editor /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757997650",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/ex ex /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757983255",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/view view /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757974414",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/vi vi /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757964670",
+                "update-alternatives 2021-12-04 07:24:36: run with --install /usr/bin/rview rview /usr/bin/vim.tiny 15"
+            ],
+            [
+                "1638609981757945677",
+                "update-alternatives 2021-11-09 13:48:41: run with --install /usr/bin/editor editor /usr/bin/vim.nox 40 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757937429",
+                "update-alternatives 2021-11-09 13:48:41: link group ex updated to point to /usr/bin/vim.nox"
+            ],
+            [
+                "1638609981757933435",
+                "update-alternatives 2021-11-09 13:48:41: run with --install /usr/bin/ex ex /usr/bin/vim.nox 40 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757916664",
+                "update-alternatives 2021-11-09 13:48:41: link group view updated to point to /usr/bin/vim.nox"
+            ],
+            [
+                "1638609981757910759",
+                "update-alternatives 2021-11-09 13:48:41: run with --install /usr/bin/view view /usr/bin/vim.nox 40 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757905512",
+                "update-alternatives 2021-11-09 13:48:41: link group vi updated to point to /usr/bin/vim.nox"
+            ],
+            [
+                "1638609981757886539",
+                "update-alternatives 2021-11-09 13:48:41: run with --install /usr/bin/vi vi /usr/bin/vim.nox 40 --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757876001",
+                "update-alternatives 2021-11-09 13:48:41: link group rview updated to point to /usr/bin/vim.nox"
+            ],
+            [
+                "1638609981757872126",
+                "update-alternatives 2021-11-09 13:48:41: run with --install /usr/bin/rview rview /usr/bin/vim.nox 40"
+            ],
+            [
+                "1638609981757857856",
+                "update-alternatives 2021-11-09 13:48:41: link group rvim updated to point to /usr/bin/vim.nox"
+            ],
+            [
+                "1638609981757848906",
+                "update-alternatives 2021-11-09 13:48:41: run with --install /usr/bin/rvim rvim /usr/bin/vim.nox 40"
+            ],
+            [
+                "1638609981757843728",
+                "update-alternatives 2021-11-09 13:48:41: link group vimdiff updated to point to /usr/bin/vim.nox"
+            ],
+            [
+                "1638609981757822010",
+                "update-alternatives 2021-11-09 13:48:41: run with --install /usr/bin/vimdiff vimdiff /usr/bin/vim.nox 40"
+            ],
+            [
+                "1638609981757816370",
+                "update-alternatives 2021-11-09 13:48:41: link group vim updated to point to /usr/bin/vim.nox"
+            ],
+            [
+                "1638609981757812469",
+                "update-alternatives 2021-11-09 13:48:41: run with --install /usr/bin/vim vim /usr/bin/vim.nox 40"
+            ],
+            [
+                "1638609981757798001",
+                "update-alternatives 2021-11-09 13:48:40: link group sar updated to point to /usr/bin/sar.sysstat"
+            ],
+            [
+                "1638609981757791825",
+                "update-alternatives 2021-11-09 13:48:40: run with --install /usr/bin/sar sar /usr/bin/sar.sysstat 0 --slave /usr/share/man/man1/sar.1.gz sar.1.gz /usr/share/man/man1/sar.sysstat.1.gz"
+            ],
+            [
+                "1638609981757779315",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/editor editor /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757757146",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/ex ex /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757751415",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/view view /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757747407",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/vi vi /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757732851",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/rview rview /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981757718494",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/rvim rvim /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981757713333",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/vimdiff vimdiff /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981757694154",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/vim vim /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981757688202",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/editor editor /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757681314",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/ex ex /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757662101",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/view view /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757655391",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/vi vi /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981757646282",
+                "update-alternatives 2021-11-09 13:47:21: run with --install /usr/bin/rview rview /usr/bin/vim.tiny 15"
+            ],
+            [
+                "1638609981757618152",
+                "update-alternatives 2021-11-09 13:43:59: link group rcp updated to point to /usr/bin/scp"
+            ],
+            [
+                "1638609981757604650",
+                "update-alternatives 2021-11-09 13:43:59: run with --quiet --install /usr/bin/rcp rcp /usr/bin/scp 20 --slave /usr/share/man/man1/rcp.1.gz rcp.1.gz /usr/share/man/man1/scp.1.gz"
+            ],
+            [
+                "1638609981757596948",
+                "update-alternatives 2021-11-09 13:43:59: link group rlogin updated to point to /usr/bin/slogin"
+            ],
+            [
+                "1638609981753549567",
+                "update-alternatives 2021-11-09 13:43:59: run with --quiet --install /usr/bin/rlogin rlogin /usr/bin/slogin 20 --slave /usr/share/man/man1/rlogin.1.gz rlogin.1.gz /usr/share/man/man1/slogin.1.gz"
+            ],
+            [
+                "1638609981753540087",
+                "update-alternatives 2021-11-09 13:43:59: link group rsh updated to point to /usr/bin/ssh"
+            ],
+            [
+                "1638609981753534669",
+                "update-alternatives 2021-11-09 13:43:59: run with --quiet --install /usr/bin/rsh rsh /usr/bin/ssh 20 --slave /usr/share/man/man1/rsh.1.gz rsh.1.gz /usr/share/man/man1/ssh.1.gz"
+            ],
+            [
+                "1638609981753511280",
+                "update-alternatives 2021-11-09 13:43:53: link group text.plymouth updated to point to /usr/share/plymouth/themes/ubuntu-text/ubuntu-text.plymouth"
+            ],
+            [
+                "1638609981753503511",
+                "update-alternatives 2021-11-09 13:43:53: run with --install /usr/share/plymouth/themes/text.plymouth text.plymouth /usr/share/plymouth/themes/ubuntu-text/ubuntu-text.plymouth 50"
+            ],
+            [
+                "1638609981753498444",
+                "update-alternatives 2021-11-09 13:43:51: link group pinentry updated to point to /usr/bin/pinentry-curses"
+            ],
+            [
+                "1638609981753342955",
+                "update-alternatives 2021-11-09 13:43:51: run with --quiet --install /usr/bin/pinentry pinentry /usr/bin/pinentry-curses 50 --slave /usr/share/man/man1/pinentry.1.gz pinentry.1.gz /usr/share/man/man1/pinentry-curses.1.gz"
+            ],
+            [
+                "1638609981750737140",
+                "update-alternatives 2021-11-09 13:43:19: run with --install /usr/bin/editor editor /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981750731716",
+                "update-alternatives 2021-11-09 13:43:19: link group ex updated to point to /usr/bin/vim.basic"
+            ],
+            [
+                "1638609981750712347",
+                "update-alternatives 2021-11-09 13:43:19: run with --install /usr/bin/ex ex /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981750701602",
+                "update-alternatives 2021-11-09 13:43:19: link group view updated to point to /usr/bin/vim.basic"
+            ],
+            [
+                "1638609981750697445",
+                "update-alternatives 2021-11-09 13:43:19: run with --install /usr/bin/view view /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981750680137",
+                "update-alternatives 2021-11-09 13:43:19: link group vi updated to point to /usr/bin/vim.basic"
+            ],
+            [
+                "1638609981750673908",
+                "update-alternatives 2021-11-09 13:43:19: run with --install /usr/bin/vi vi /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981750668545",
+                "update-alternatives 2021-11-09 13:43:19: link group rview updated to point to /usr/bin/vim.basic"
+            ],
+            [
+                "1638609981750649141",
+                "update-alternatives 2021-11-09 13:43:19: run with --install /usr/bin/rview rview /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981750639657",
+                "update-alternatives 2021-11-09 13:43:19: link group rvim updated to point to /usr/bin/vim.basic"
+            ],
+            [
+                "1638609981750635729",
+                "update-alternatives 2021-11-09 13:43:19: run with --install /usr/bin/rvim rvim /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981750621349",
+                "update-alternatives 2021-11-09 13:43:19: link group vimdiff updated to point to /usr/bin/vim.basic"
+            ],
+            [
+                "1638609981750615192",
+                "update-alternatives 2021-11-09 13:43:19: run with --install /usr/bin/vimdiff vimdiff /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981750608594",
+                "update-alternatives 2021-11-09 13:43:19: link group vim updated to point to /usr/bin/vim.basic"
+            ],
+            [
+                "1638609981750585742",
+                "update-alternatives 2021-11-09 13:43:19: run with --install /usr/bin/vim vim /usr/bin/vim.basic 30"
+            ],
+            [
+                "1638609981750579908",
+                "update-alternatives 2021-11-09 13:43:16: link group from updated to point to /usr/bin/bsd-from"
+            ],
+            [
+                "1638609981750575824",
+                "update-alternatives 2021-11-09 13:43:16: run with --install /usr/bin/from from /usr/bin/bsd-from 10 --slave /usr/share/man/man1/from.1.gz from.1.gz /usr/share/man/man1/bsd-from.1.gz"
+            ],
+            [
+                "1638609981750541279",
+                "update-alternatives 2021-11-09 13:43:16: link group write updated to point to /usr/bin/bsd-write"
+            ],
+            [
+                "1638609981750534625",
+                "update-alternatives 2021-11-09 13:43:16: run with --install /usr/bin/write write /usr/bin/bsd-write 100 --slave /usr/share/man/man1/write.1.gz write.1.gz /usr/share/man/man1/bsd-write.1.gz"
+            ],
+            [
+                "1638609981750509521",
+                "update-alternatives 2021-11-09 13:43:13: link group ftp updated to point to /usr/bin/netkit-ftp"
+            ],
+            [
+                "1638609981750477662",
+                "update-alternatives 2021-11-09 13:43:13: run with --install /usr/bin/ftp ftp /usr/bin/netkit-ftp 100 --slave /usr/bin/pftp pftp /usr/bin/netkit-ftp --slave /usr/share/man/man1/ftp.1.gz ftp.1.gz /usr/share/man/man1/netkit-ftp.1.gz --slave /usr/share/man/man1/pftp.1.gz pftp.1.gz /usr/share/man/man1/netkit-ftp.1.gz --slave /usr/share/man/man5/netrc.5.gz netrc.5.gz /usr/share/man/man5/netkit-netrc.5.gz"
+            ],
+            [
+                "1638609981750469933",
+                "update-alternatives 2021-11-09 13:43:13: link group telnet updated to point to /usr/bin/telnet.netkit"
+            ],
+            [
+                "1638609981750456763",
+                "update-alternatives 2021-11-09 13:43:13: run with --install /usr/bin/telnet telnet /usr/bin/telnet.netkit 100 --slave /usr/share/man/man1/telnet.1.gz telnet.1.gz /usr/share/man/man1/telnet.netkit.1.gz"
+            ],
+            [
+                "1638609981746584970",
+                "update-alternatives 2021-11-09 13:43:12: link group traceroute6 updated to point to /usr/bin/traceroute6.iputils"
+            ],
+            [
+                "1638609981746576142",
+                "update-alternatives 2021-11-09 13:43:12: run with --install /usr/bin/traceroute6 traceroute6 /usr/bin/traceroute6.iputils 100 --slave /usr/share/man/man8/traceroute6.8.gz traceroute6.8.gz /usr/share/man/man8/traceroute6.iputils.8.gz"
+            ],
+            [
+                "1638609981746565946",
+                "update-alternatives 2021-11-09 13:43:11: link group pico updated to point to /bin/nano"
+            ],
+            [
+                "1638609981746544087",
+                "update-alternatives 2021-11-09 13:43:11: run with --install /usr/bin/pico pico /bin/nano 10 --slave /usr/share/man/man1/pico.1.gz pico.1.gz /usr/share/man/man1/nano.1.gz"
+            ],
+            [
+                "1638609981746538212",
+                "update-alternatives 2021-11-09 13:43:11: link group editor updated to point to /bin/nano"
+            ],
+            [
+                "1638609981746530836",
+                "update-alternatives 2021-11-09 13:43:11: run with --install /usr/bin/editor editor /bin/nano 40 --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/nano.1.gz"
+            ],
+            [
+                "1638609981746516645",
+                "update-alternatives 2021-11-09 13:43:08: link group awk updated to point to /usr/bin/gawk"
+            ],
+            [
+                "1638609981746510627",
+                "update-alternatives 2021-11-09 13:43:08: run with --quiet --install /usr/bin/awk awk /usr/bin/gawk 10 --slave /usr/share/man/man1/awk.1.gz awk.1.gz /usr/share/man/man1/gawk.1.gz --slave /usr/bin/nawk nawk /usr/bin/gawk --slave /usr/share/man/man1/nawk.1.gz nawk.1.gz /usr/share/man/man1/gawk.1.gz"
+            ],
+            [
+                "1638609981746505290",
+                "update-alternatives 2021-11-09 13:43:07: run with --quiet --install /usr/bin/editor editor /bin/ed -100 --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/ed.1.gz"
+            ],
+            [
+                "1638609981746486259",
+                "update-alternatives 2021-11-09 13:43:06: link group locate updated to point to /usr/bin/mlocate"
+            ],
+            [
+                "1638609981746477541",
+                "update-alternatives 2021-11-09 13:43:06: run with --install /usr/bin/locate locate /usr/bin/mlocate 80 --slave /usr/share/man/man1/locate.1.gz locate.1.gz /usr/share/man/man1/mlocate.1.gz --slave /usr/bin/updatedb updatedb /usr/bin/updatedb.mlocate --slave /usr/share/man/man8/updatedb.8.gz updatedb.8.gz /usr/share/man/man8/updatedb.mlocate.8.gz"
+            ],
+            [
+                "1638609981746472766",
+                "update-alternatives 2021-11-09 13:43:02: link group infobrowser updated to point to /usr/bin/info"
+            ],
+            [
+                "1638609981746458457",
+                "update-alternatives 2021-11-09 13:43:02: run with --install /usr/bin/infobrowser infobrowser /usr/bin/info 60 --slave /usr/share/man/man1/infobrowser.1.gz infobrowser.1.gz /usr/share/man/man1/info.1.gz"
+            ],
+            [
+                "1638609981746452265",
+                "update-alternatives 2021-09-15 23:51:46: run with --install /usr/bin/editor editor /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981746446908",
+                "update-alternatives 2021-09-15 23:51:46: run with --install /usr/bin/ex ex /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz"
+            ],
+            [
+                "1638609981746424700",
+                "update-alternatives 2021-09-15 23:51:46: run with --install /usr/bin/view view /usr/bin/vim.tiny 15 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz"
+            ]
+        ]
+    }
+]
