@@ -22,10 +22,10 @@ Vagrant.configure("2") do |config|
       systemctl restart sshd
     SCRIPT
 
-    # install loki, promtail
+    # install loki, promtail, grafana
     cfg.vm.provision "shell", inline: <<-SCRIPT
       apt-get update
-      apt-get install -y vim net-tools
+      apt-get install -y vim net-tools wget
 
       # loki
       # reference: https://github.com/grafana/loki/releases/
@@ -40,6 +40,12 @@ Vagrant.configure("2") do |config|
       unzip "promtail-linux-amd64.zip"
       chmod a+x "promtail-linux-amd64"
       wget https://raw.githubusercontent.com/grafana/loki/main/clients/cmd/promtail/promtail-local-config.yaml
+
+      # grafana
+      # reference: https://grafana.com/docs/grafana/latest/installation/debian/
+      # reference: https://grafana.com/grafana/download?platform=linux
+      wget https://dl.grafana.com/enterprise/release/grafana-enterprise-8.3.0.linux-amd64.tar.gz
+      tar -zxvf grafana-enterprise-8.3.0.linux-amd64.tar.gz
     SCRIPT
   end
 end
